@@ -1,0 +1,8 @@
+apscheduler==3.6.3
+fastapi==0.63.0
+pydantic==1.7.3
+pytest==6.2.1
+requests==2.25.1
+uvicorn==0.13.2
+tzlocal==2.1
+pyJWT==1.7.1
